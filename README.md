@@ -35,7 +35,7 @@ I work on practical projects involving financial statement analysis, ratio analy
 ---
 
 ## 📫 Connect with Me
-- GitHub: https://github.com/devAknegi  
+- GitHub: https://github.com/Anmol-Negi05
 - LinkedIn: https://www.linkedin.com/in/anmol05  
 - Email: anmolnegi05@gmail.com
 
